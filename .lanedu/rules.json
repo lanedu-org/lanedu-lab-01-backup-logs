@@ -1,0 +1,6 @@
+{
+  "lab_id": "LAB-01",
+  "required_files": ["solution/script.sh"],
+  "min_changed_files": 1,
+  "pr_title_contains": "LAB-01"
+}
